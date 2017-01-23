@@ -1,0 +1,105 @@
+<style>
+  .auto-text {
+    font-size:20px;
+  }
+  .blue-text {
+    color:#96CDCD;
+  }
+  h1 {
+    font-family:'Comic Sans MS'
+  }
+  h3 {
+    font-family:"Microsoft YaHei";
+    color:#96CDCD;
+  }
+  .aligncenter {
+    clear:both;
+    display:block;
+    margin:auto;
+  }
+  .larger-image {
+    width=500px;
+  }
+  .thin-gray-border {
+    border-color:gray;
+    border-width:5px;
+    border-style:solid;
+    border-radius:5%
+  }
+  .big-pink-border {
+    border-color:#E0EEE0 ;
+    border-radius:5%;
+    border-width:5px;
+    border-style:solid;
+  }
+  .blue-border {
+    border-color:#96CDCD;
+    border-radius:5%;
+    border-width:5px;
+    border-style:solid;
+  }
+  .box {
+    width:1100px;
+  }
+  .box table {
+    display:block;
+    float: left;
+    width:350px;
+  }
+  .box img {
+    width:300px;
+    height:300px;
+  }
+</style>
+<h1 class="blue-text text-center" style="font-size:80px" > 曹方icy</h1>
+<img style="margin-top:50px" width="1000px" class=" thin-gray-border aligncenter" 
+   src="http://difang.kaiwind.com/shanghai/dfmssy/201511/19/W020151119339005884534.jpg">
+<h3>基本信息</h3>
+<p>
+  曹方，1982年5月6日出生于云南西双版纳，中国大陆创作女歌手。
+</p>
+<h3>演艺经历</h3>
+<ul>
+  <li>1996年，曹方赴昆明求学，开始参加乐队演出。18岁到成都西南民族大学学习，多次参加歌唱比赛并获奖。</li>
+  <li>2002年，曹方只身来到北京，担任小柯的录音助理。</li>
+  <li>2003年，签约小柯担任音乐总监的“钛友文化”，9月发行个人首张全创作专辑《黑色香水》；同年发行第一张全创作专辑《黑色香水》。</li>
+  <li>2004年12月 ，《黑色香水》被“新京报”评为内地年度十大唱片。</li>
+  <li>2005年10月，创盟音乐、钛友文化宣布结盟，成立“创盟钛友”音乐厂牌；同年12月，发行第二张专辑《遇见我》。</li>
+  <li>2007年8月自立门户成立“大班音乐工作室”；11月，以独立发行的方式推出“音乐+摄影+文字”精品EP《比天空还远》，限量5000张。</li>
+  <li>2009年1月，参加2009年新加坡华艺节，举办专场演出；11月，发行第三张个人专辑《哼一首歌等日落》。</li>
+  <li>2010年5月，发行义卖单曲《南澜掌》。</li>
+  <li>2012年3月，在沉寂一年多后终于推出EP《浅彩虹》,专辑由曹方历时一年多时间，在旅居生活中创作完成。</li>
+  <li>2015年10月，创作女歌手曹方历时三年酝酿带来第四张全创作录音室专辑《Wanderlust﹒流浪癖》。</li>
+</ul>
+<h3>代表作品</h3>
+<div class="box aligncenter"> 
+  <table>
+    <tr>
+      <td>
+      <a href="http://baike.baidu.com/item/%E9%81%87%E8%A7%81%E6%88%91/10526006"><img class="big-pink-border" width="300px"  src="http://i3.sinaimg.cn/ent/y/2008-03-28/U1978P28T3D1965202F358DT20080328115755.jpg"></a></td>
+    </tr>
+    <tr>
+      <td align="center" class="auto-text">遇见我</td>
+    </tr>
+  </table>
+    <table>
+      <tr>
+        <td>
+      <a href="http://baike.baidu.com/link?url=iLA1xeZuBcSMCD1xBYZLm4MZxw-QRohtJBRx2gdjlMzdKtOdg7JLCgLQJS1ltHhoPfN82VXqrRzHTfXJvq81vCNoOhF7Kpe8Lp09uGeU1D9bb7Tn5kWjyTR1eDNQUUbgZ3gFlx0JZV1jTOO7yeZhVq"><img class="blue-border" src="http://ctc.qzs.qq.com/music/photo/album/25/albumpic_33225_0.jpg"></a></td>
+      </tr>
+      <tr>
+        <td align="center" class="auto-text">比天空还远</td></tr></table>
+  <table>
+    <tr>
+      <td>
+      <a href="http://baike.baidu.com/item/%E5%93%BC%E4%B8%80%E9%A6%96%E6%AD%8C%E7%AD%89%E6%97%A5%E8%90%BD"><img class="thin-gray-border"  src="http://img4.imgtn.bdimg.com/it/u=393782361,4055181251&fm=23&gp=0.jpg"></a></td>
+    </tr>
+    <tr>
+      <td align="center" class="auto-text">哼一首歌等日落</td></tr></table>
+</div>
+<h1 style="margin-top:240px" class="blue-text">Tips</h1>
+<p style="margin-top:30px" >——点击专辑封面，了解详细信息。</p>
+<footer class="text-center">
+  <hr>
+  <p>Written and coded by <a href="https://github.com/hellomuse" target="_blank">HelloMuse</a></p>
+</footer>
